@@ -1,4 +1,3 @@
-# PBI_P1_Business-Insight-360
 # 🚀 Business Insight 360 | Power BI Project
 
 ![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-yellow?logo=powerbi)
@@ -54,10 +53,9 @@ This dashboard empowers executives, analysts, and marketers with real-time, acti
 
 ## 🔄 Data Refresh Cycle
 
-- 📅 **Data Valid Until**: December 2021
+- 📅 **Data Valid Until**: December 2022
 - 🔁 **System Data Refresh**: Every month on the 5th working day
 - ✍️ **Manual Update**: Targets, Operational Expenses, and Market Share upon request
-- 📍 **Last Report Refresh**: January 7, 2025
 
 ---
 
@@ -105,8 +103,8 @@ This dashboard empowers executives, analysts, and marketers with real-time, acti
 I'm passionate about transforming data into powerful business stories!  
 If you're looking for someone who can blend analytics, creativity, and business acumen — **let's connect!**
 
-🔗 [LinkedIn Profile](#)  
-📩 [Email Me](#)
+🔗 [LinkedIn Profile](www.linkedin.com/in/muhammadtanweer786)  
+📩 [Email Me](info.veer.786@gmail.com)
 
 ---
 
