@@ -79,16 +79,6 @@ This dashboard empowers executives, analysts, and marketers with real-time, acti
 
 ---
 
-## 🛠 How to Use
-
-1. **Open the `.pbix` file** in Microsoft Power BI Desktop or Service.
-2. **Refresh the dataset** to load the latest figures.
-3. **Interact with dashboards** using filters (Region, Customer, Segment).
-4. **Download Live Reports** as Excel or PDFs if needed.
-5. **Raise Support Requests** via embedded options if required.
-
----
-
 ## 🧠 Key Takeaways
 
 - Built an **executive-level dashboard** aggregating critical business KPIs
