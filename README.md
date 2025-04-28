@@ -103,9 +103,16 @@ This dashboard empowers executives, analysts, and marketers with real-time, acti
 I'm passionate about transforming data into powerful business stories!  
 If you're looking for someone who can blend analytics, creativity, and business acumen — **let's connect!**
 
-🔗 [LinkedIn Profile](www.linkedin.com/in/muhammadtanweer786)  
-📩 [Email Me](info.veer.786@gmail.com)
+## 🌐 Let's Connect!
 
+<p align="left">
+  <a href="https://linkedin.com/in/muhammadtanweer786/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:info.veer.786@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 ---
 
 ⭐ *Thank you for exploring Business Insight 360!* ⭐
